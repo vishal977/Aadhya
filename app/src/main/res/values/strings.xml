@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aadhya</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_start_trip">Start Trip</string>
+    <string name="title_activity_unsafe_locations">Unsafe Locations</string>
+    <string name="unsafelocation">Unsafe Locations</string>
+
+    <string-array name="report_about_array">
+        <item>Harrasment</item>
+        <item>Molestation</item>
+        <item>Robbery</item>
+        <item>Chain Snatching</item>
+        <item>Rape</item>
+        <item>Torture</item>
+        <item>Other</item>
+    </string-array>
+
+
+    <string name="changeRad">Change Radius</string>
+    <string name="changeGrad">Change Map Gradient</string>
+    <string name="changeOpac">Change Opacity</string>
+    <string name="route_safe_cov_inidira">o`zmAoz|xM{DCoB?UcDMmBCc@BeDkGJmJH{@EqBY_BW]vBMnAAZ?f@Ir@WpBGh@?r@BjAFfBFhCH~AFjBBxFL~@`A`El@dDn@~Dp@~CA`@Kj@uAbFiBpFUj@IRs@fAm@hAQd@WfAGfABh@`@nEr@zIBNQB_CPuUdAgCJsBNmCp@w@Xy@l@aBlB_FbF{BhBiBjBqAcBkCsDCQf@}@c@QGQBOAKKYCQcASwBi@EHQEoA]w@Sy@[{@W]SuA\\AyEKqA]{A]eAgAkBuA{A}AeAyIuEyVuMaEuBaBs@_@OWCs@?q@Jk@Pm@b@gDzDa@^k@XiATe@@i@GeBk@_Bq@}DsBcIsDy@[]Eu@GiD?gDGaC@eCBk@?{@Ai@EqACgAC{AIqBUkBScCEs@@yCJ[FaB?{@AM?E?M?oS\\yIZHtBDpBN~CJfDJ`FHJ`@H|EVTJlAu@lBwA`C{Bj@k@nAgBr@oAp@yAzAyDv@cCQ?G?iMTmEFyIZqIPGuC{A@qFVCpBR?</string>
+    <string name="route_cov_indira">o`zmAoz|xM{DCoB?UcDMmBCc@BeDkGJmJH{@EqBY_BW]vBMnAAZ?f@Ir@WpBGh@?r@BjAFfBFhCH~AFjBBxFL~@`A`El@dDn@~Dp@~CA`@Kj@uAbFiBpFUj@IRs@fAm@hAQd@WfAGfABh@`@nEr@zIBNQB_CPuUdAgCJsBNmCp@w@Xy@l@aBlB_FbF{BhBiBjBqAcBkCsDCQf@}@c@QGQBOAKKYCQcASwBi@EHQEoA]w@Sy@[{@W]SuA\\AyEKqA]{A]eAgAkBuA{A}AeAyIuEyVuMaEuBaBs@_@OWCs@?q@Jk@Pm@b@gDzDa@^k@XiATe@@i@GeBk@_Bq@}DsBcIsDy@[]Eu@GiD?gDGaC@eCBk@?{@Ai@EqACgAC{AIqBUkBScCEs@@yCJ[FaB?{@AM?E?M?oS\\yIZiDFgDHGuC{A@qFVCpBR?</string>
+    <string name="title_activity_analyse_locations">Analyse</string>
+    <string name="dash">-</string>
+</resources>

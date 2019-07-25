@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.heisenberg.beherchange.Information">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="95dp"
+        android:layout_height="95dp"
+        android:src="@drawable/camera"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="55dp"
+        android:id="@+id/img"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:inputType="text"
+        android:layout_below="@+id/img"
+        android:id="@+id/name"
+        android:hint="Enter Name"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif-condensed"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:inputType="number"
+        android:hint="Mobile Number"
+        android:layout_below="@+id/name"
+        android:id="@+id/mob"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif-condensed"/>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_marginLeft="25dp"
+        android:hint="Password"
+        android:layout_marginRight="25dp"
+        android:inputType="textPassword"
+        android:layout_below="@+id/mob"
+        android:id="@+id/pass"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif-condensed"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:layout_below="@+id/pass"
+        android:id="@+id/register"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/buttonstyle"
+        android:textColor="@color/white"
+        android:layout_marginTop="30dp"/>
+
+</RelativeLayout>

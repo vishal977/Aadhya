@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.heisenberg.beherchange.UnsafeLocations">
+    <item
+        android:id="@+id/changeRad"
+        android:title="@string/changeRad" />
+    <item
+        android:id="@+id/changeGrad"
+        android:title="@string/changeGrad" />
+    <item
+        android:id="@+id/changeOpac"
+        android:title="@string/changeOpac" />
+</menu>

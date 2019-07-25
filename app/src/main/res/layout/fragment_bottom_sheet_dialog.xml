@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_white_bottom_sheet_dialog_fragment"
+    android:orientation="vertical"
+    android:paddingBottom="8dp"
+    android:paddingTop="8dp">
+
+    <!-- NOTE: This list should be displayed in a list
+    instead of nested layouts -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:orientation="horizontal"
+        android:id="@+id/dailygraph_btm">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="User Reviews"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_centerHorizontal="true"
+                android:fontFamily="sans-serif-condensed"/>
+            <ImageView
+                android:layout_width="350dp"
+                android:layout_height="135dp"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/reviews"
+                android:id="@+id/rev_img"
+                android:layout_marginTop="25dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="How people feel visiting here"
+                android:layout_marginLeft="10dp"
+                android:textSize="20dp"
+                android:layout_below="@+id/rev_img"
+                android:textColor="@color/colorPrimaryDark"
+                android:layout_centerHorizontal="true"
+                android:fontFamily="sans-serif-condensed"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="35dp"
+                android:src="@drawable/ladyshe"
+                android:id="@+id/rev_img_girl"
+                android:layout_marginTop="205dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/rev_img_girl"
+                android:layout_marginTop="205dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textSize="15dp"
+                android:id="@+id/label_rep"
+                android:fontFamily="sans-serif-condensed"
+                android:text="Very safe place. I haven't seen man people filing complaints. "/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/rev_img_girl"
+                android:layout_below="@+id/label_rep"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textSize="15dp"
+                android:fontFamily="sans-serif-condensed"
+                android:text="1 Upvoted - Rated 4.5/5.0"/>
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_marginLeft="35dp"
+                android:src="@drawable/ladyshe"
+                android:id="@+id/rev_img_girl2"
+                android:layout_below="@+id/rev_img_girl"
+                android:layout_marginTop="15dp"/>
+
+            <TextView
+                android:id="@+id/label_rep2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignStart="@+id/textView"
+                android:layout_alignTop="@+id/rev_img_girl2"
+                android:fontFamily="sans-serif-condensed"
+                android:text="Group of 3-4 men often comment on college girls during evenings. Be Safe!!!"
+                android:textSize="15dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/rev_img_girl2"
+                android:layout_below="@+id/label_rep2"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textSize="15dp"
+                android:fontFamily="sans-serif-condensed"
+                android:text="5+ Upvotes - Rated 3.0/5.0"
+                android:id="@+id/textView" />
+
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

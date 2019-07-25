@@ -1,0 +1,713 @@
+[
+  {
+    "case code":518,
+    "case_desc":"KIDNAP",
+    "location":"Malleshwaram West",
+    "date":"01-06-18",
+    "time":19,
+    "street":"15th Cross Rd",
+    "lat":13.005502,
+    "lng":77.566508,
+    "crime_rate":85
+  },
+
+  {
+    "case_code" :1200,
+    "case_desc":"rape",
+    "location":"Vyalikaval",
+    "date":"03/05/18",
+    "time": 23,
+    "street":"12th B Cross Rd",
+    "lat":13.003300,
+    "lng":77.575943,
+    "crime_rate":98
+  },
+
+  {
+    "case_code" :412,
+    "case_desc":"chain snatching",
+    "location":"M v Block",
+    "date":"27/05/18",
+    "time": 15,
+    "street":"10th Main Rd",
+    "lat":13.001711,
+    "lng":77.580217,
+    "crime_rate":70
+  },
+
+  {
+    "case_code" :358,
+    "case_desc":"murder",
+    "location":"Sriramapura",
+    "date":"30/09/18",
+    "time": 14,
+    "street":"2nd Cross Rd",
+    "lat":12.995642,
+    "lng": 77.565779,
+    "crime_rate":97
+  },
+
+
+  {
+    "case_code" : 2198,
+    "case_desc":"MISSING PERSON",
+    "location":"Gayatrinagar",
+    "date": "12/07/18",
+    "time": 21,
+    "street": "2470, 10th main road",
+    "lat": 12.999523,
+    "lng": 77.556489,
+    "crime_rate": 85
+  },
+  {
+    "case_code" : 1350,
+    "case_desc":"PROSTITUTION - SOLICITING",
+    "location":"Labour Colony",
+    "date": "11/03/18",
+    "time": 19,
+    "street": "6th Cross Road",
+    "lat": 12.991262,
+    "lng": 77.566399,
+    "crime_rate": 85
+  },
+  {
+    "case_code" : 580,
+    "case_desc":"ASSAULT - AGGRAVATED",
+    "location":"udayam nagar",
+    "date": "20/08/18",
+    "time": 23,
+    "street": "59A Cross Rd",
+    "lat": 12.987261,
+    "lng": 77.560455,
+    "crime_rate": 85
+  },
+  {
+    "case_code" : 1367,
+    "case_desc":"LARCENY ALL OTHERS",
+    "location":"Okalipuram",
+    "date": "18/10/18",
+    "time": 17,
+    "street": "1st Cross Rd",
+    "lat":12.983779,
+    "lng":77.565074,
+    "crime_rate": 85
+  },
+  {
+    "case_code" :2554,
+    "case_desc":"BALLISTICS EVIDENCE/FOUND",
+    "location":"Sevashrama",
+    "date":"28/02/18",
+    "time": 20,
+    "street": "Unnamed Road",
+    "lat":12.983468,
+    "lng":77.570102,
+    "crime_rate": 85
+  },
+  {
+    "case_code" :420,
+    "case_desc":"THREATS TO DO BODILY HARM",
+    "location":"Lakshminarayanapuram",
+    "date":"22/09/18",
+    "time": 22,
+    "street": "8th Cross Rd",
+    "lat":12.977229,
+    "lng":77.558457,
+    "crime_rate": 85
+  },
+  {
+    "case_code" :2723,
+    "case_desc":"SICK/INJURED/MEDICAL - PERSON",
+    "location":"Mariyappanapalya",
+    "date":"18/04/18",
+    "time": 18,
+    "street": "Unnamed Road",
+    "lat":12.973184,
+    "lng":77.559547,
+    "crime_rate": 85
+  },
+  {
+    "case_code" :1862,
+    "case_desc":"INVESTIGATE PERSON",
+    "location":"Kempapura Agrahara",
+    "date":"15/01/19",
+    "time": 13,
+    "street": "1st A Main Road",
+    "lat":12.970598,
+    "lng":77.552868,
+    "crime_rate": 85
+  },
+  {
+    "case_code" :760,
+    "case_desc":"VAL - OPERATING AFTER REV/SUSP.",
+    "location":"Cholourpalya",
+    "date":"13/04/18",
+    "time": 16,
+    "street": "6th Cross Street",
+    "lat":12.971489,
+    "lng":77.548668,
+    "crime_rate": 85
+  },
+  {
+    "case_code" :2584,
+    "case_desc":"HARASSMENT",
+    "location":"Telecom Layout",
+    "date":"04/09/18",
+    "time": 17,
+    "street": "5th Cross Road",
+    "lat":12.966167,
+    "lng":77.547097,
+    "crime_rate": 85
+  },
+
+  {
+    "case_code" :536,
+    "case_desc":"kidnap",
+    "location":"Padarayana Pura",
+    "date":"20/01/18",
+    "time": 13,
+    "street":"13th Cross Road",
+    "lat":12.964160,
+    "lng":77.546475,
+    "crime_rate": 85
+  },
+
+  {
+    "case_code" :712,
+    "case_desc":"robbery",
+    "location":"Gori Palya",
+    "date":"18/08/18",
+    "time": 23,
+    "street":"4th Cross Road",
+    "lat": 12.963434,
+    "lng": 77.556008,
+    "crime_rate":75
+  },
+
+  {
+    "case_code" :1212,
+    "case_desc":"rape",
+    "location":"Banglore",
+    "date":"14/03/18",
+    "time": 22,
+    "street":"Chamrajpet",
+    "lat": 12.957875,
+    "lng": 77.565005,
+    "crime_rate":98
+  },
+
+  {
+    "case_code" :702,
+    "case_desc":"robbery",
+    "location":"Chamrajpet",
+    "date":"24/01/18",
+    "time":23,
+    "street":"6th Main AppuRao Road",
+    "lat":12.955256,
+    "lng":77.564522,
+    "crime_rate":75
+  },
+
+  {
+    "case_code" :586,
+    "case_desc":"kidnap",
+    "location":"Kempegowda Nagar",
+    "date":"15/10/18",
+    "time": 6,
+    "street":"Lakshmipuram 2nd Main Road",
+    "lat":12.947656,
+    "lng":77.559791,
+    "crime_rate":85
+  },
+
+  {
+    "case_code" : 438,
+    "case_desc":"chain snatching",
+    "location":"Thyagaraja Nagar",
+    "date":"27/6/18",
+    "time": 14,
+    "street":"1st Cross Road",
+    "lat": 12.932022,
+    "lng": 77.567897,
+    "crime_rate":70
+  },
+
+  {
+    "case_code" : 387,
+    "case_desc":"murder",
+    "location":"Banashankari",
+    "date":"30/11/18",
+    "time": 16,
+    "street":"6th B Cross Road",
+    "lat": 12.929755,
+    "lng": 77.556840,
+    "crime_rate":97
+  },
+
+  {
+    "case_code" : 516,
+    "case_desc":"kidnap",
+    "location":"Kumaraswamy Layout",
+    "date":"29/05/18",
+    "time": 12,
+    "street":"71st Cross Road",
+    "lat": 12.905280,
+    "lng": 77.563092,
+    "crime_rate":85
+  },
+
+  {
+    "case_code" : 750,
+    "case_desc":"robbery",
+    "location":"Ramakrishna Nagar",
+    "date":"17/03/18",
+    "time": 17,
+    "street":"36, 6th Cross Road",
+    "lat": 12.905466,
+    "lng": 77.571070,
+    "crime_rate":75
+  },
+
+  {
+    "case_code" : 1250,
+    "case_desc":"rape",
+    "location":"Krishna Devaraya Nagar",
+    "date":"12/06/18",
+    "time": 15,
+    "street":"48-47, Post office Road",
+    "lat": 12.900038,
+    "lng": 77.570620,
+    "crime_rate":98
+  },
+
+  {
+    "case_code" : 589,
+    "case_desc":"kidnap",
+    "location":"Bikasipura",
+    "date":"06/01/18",
+    "time": 7,
+    "street":"Prasanti Nagar",
+    "lat": 12.893879,
+    "lng": 77.558123,
+    "crime_rate":85
+  },
+
+  {
+    "case_code" : 478,
+    "case_desc":"Ulsoor",
+    "location":"alwarpet",
+    "date":"26/12/18",
+    "time": 8,
+    "street":"1, Murphy road",
+    "lat": 12.982129,
+    "lng": 77.626580,
+    "crime_rate":70
+  },
+
+  {
+    "case_code" : 650,
+    "case_desc":"pickpocket",
+    "location":"Victoria Layout",
+    "date":"02/12/18",
+    "time": 13,
+    "street":"6th Cross Road",
+    "lat": 12.965277,
+    "lng": 77.615723,
+    "crime_rate":65
+  },
+
+  {
+    "case_code" : 239,
+    "case_desc":"suicide",
+    "location":"Neelasandra",
+    "date":"15/09/18",
+    "time": 17,
+    "street":"Aneplya",
+    "lat": 12.950188,
+    "lng": 77.611223,
+    "crime_rate":50
+  },
+
+  {
+    "case_code" : 1237,
+    "case_desc":"rape",
+    "location":"Richard Xavier's colony",
+    "date":"27/01/18",
+    "time": 23,
+    "street":"Rose Garden",
+    "lat": 12.952311,
+    "lng": 77.615604,
+    "crime_rate":98
+  },
+
+  {
+    "case_code" : 389,
+    "case_desc":"murder",
+    "location":"Koramangala",
+    "date":"14/05/18",
+    "time": 14,
+    "street":"493-839, 14th mian road",
+    "lat": 12.928587,
+    "lng": 77.625453,
+    "crime_rate":97
+  },
+
+  {
+    "case_code" : 791,
+    "case_desc":"robbery",
+    "location":"MK Ahmed Bazaar",
+    "date":"13/04/18",
+    "time": 3,
+    "street":"2nd Cross Road",
+    "lat": 12.905003,
+    "lng": 77.598039,
+    "crime_rate":75
+  },
+
+  {
+    "case_code" : 543,
+    "case_desc":"kidnap",
+    "location":"Anthappa Layout",
+    "date":"15/12/18",
+    "time": 15,
+    "street":"3rd Main Road",
+    "lat": 12.902766,
+    "lng": 77.594858,
+    "crime_rate":75
+  },
+
+  {
+    "case_code" : 345,
+    "case_desc":"murder",
+    "location":"Puttenahalli",
+    "date":"14/07/18",
+    "time": 12,
+    "street":"10th Main Road",
+    "lat": 12.895262,
+    "lng": 77.581361,
+    "crime_rate":97
+  },
+
+  {
+    "case_code" : 1218,
+    "case_desc":"rape",
+    "location":"parrys corner",
+    "date":"15/04/18",
+    "time": 19,
+    "street":"armenian st",
+    "lat": 13.090607 ,
+    "lng": 80.287432,
+    "crime_rate":98
+  },
+
+  {
+    "case_code" : 659,
+    "case_desc":"pickpocket",
+    "location":"Indiranagar",
+    "date":"12/01/18",
+    "time": 14,
+    "street":"Defence Colony",
+    "lat": 12.975644,
+    "lng": 77.641948,
+    "crime_rate":65
+  },
+
+  {
+    "case_code" : 426,
+    "case_desc":"chain snatching",
+    "location":"Hoysala Nagar",
+    "date":"17/06/18",
+    "time": 17,
+    "street":"Indira nagar II stage",
+    "lat": 12.980968,
+    "lng": 77.635342,
+    "crime_rate":70
+  },
+
+  {
+    "case_code" : 268,
+    "case_desc":"suicide",
+    "location":"Pulikeshi Nagar",
+    "date":"16/10/18",
+    "time": 23,
+    "street":"Robertson Road",
+    "lat": 12.996997,
+    "lng": 77.614497,
+    "crime_rate":50
+  },
+
+  {
+    "case_code" : 327,
+    "case_desc":"murder",
+    "location":"Benson Townn",
+    "date":"15/11/18",
+    "time": 12,
+    "street":"Harris Road",
+    "lat": 13.000213,
+    "lng": 77.606998,
+    "crime_rate":97
+  },
+
+  {
+    "case_code" : 549,
+    "case_desc":"kidnap",
+    "location":"RT nagar",
+    "date":"14/12/18",
+    "time": 15,
+    "street":"8th Cross Road",
+    "lat": 13.021015,
+    "lng": 77.595668,
+    "crime_rate":85
+  },
+
+  {
+    "case_code" : 1265,
+    "case_desc":"rape",
+    "location":"Guddadahalli",
+    "date":"13/08/18",
+    "time": 20,
+    "street":"Chinana Layout",
+    "lat": 13.039843,
+    "lng": 77.595261,
+    "crime_rate":98
+  },
+
+  {
+    "case_code" : 447,
+    "case_desc":"chain snatching",
+    "location":"J.C.Nagar",
+    "date":"23/07/18",
+    "time": 12,
+    "street":"2nd Cross Road",
+    "lat": 13.009001,
+    "lng": 80.595560,
+    "crime_rate":70
+  },
+
+  {
+    "case_code" : 590,
+    "case_desc":"kidnap",
+    "location":"Moti nagar",
+    "date":"15/10/18",
+    "time": 15,
+    "street":"4th Main Road",
+    "lat": 13.014263,
+    "lng": 77.595290,
+    "crime_rate":85
+  },
+
+  {
+    "case_code" : 368,
+    "case_desc":"murder",
+    "location":"Ganga Nagar",
+    "date":"08/12/18",
+    "time": 14,
+    "street":"1st Cross Road",
+    "lat": 13.018196,
+    "lng": 77.587849,
+    "crime_rate":97
+  },
+
+  {
+    "case_code" : 499,
+    "case_desc":"chain snatching",
+    "location":"Chinnapa Garden",
+    "date":"17/06/18",
+    "time": 6,
+    "street":"6th Cross Road",
+    "lat": 13.005235,
+    "lng": 77.605159,
+    "crime_rate":70
+  },
+
+  {
+    "case_code" : 654,
+    "case_desc":"pickpocket",
+    "location":"Benson Town",
+    "date":"21/10/18",
+    "time": 12,
+    "street":"6th Cross Road",
+    "lat": 13.000500,
+    "lng": 77.607812,
+    "crime_rate":65
+  },
+
+  {
+    "case_code" : 1296,
+    "case_desc":"rape",
+    "location":"madipakkam",
+    "date":"23/04/18",
+    "time": 5,
+    "street":"5th Main Rd, Ramnagar South",
+    "lat": 12.963587 ,
+    "lng": 80.208871,
+    "crime_rate":98
+  },
+
+  {
+    "case_code" : 344,
+    "case_desc":"murder",
+    "location":"pammal",
+    "date":"24/04/18",
+    "time": 13,
+    "street":"3rd Cross St, Lakshmi Narayana Nagar",
+    "lat": 12.976451 ,
+    "lng": 80.131209,
+    "crime_rate":97
+  },
+
+  {
+    "case_code" : 1220,
+    "case_desc":"rape",
+    "location":"Sulthangunta",
+    "date":"3/06/18",
+    "time": 23,
+    "street":"4th Cross Road",
+    "lat": 12.990682,
+    "lng": 77.608193,
+    "crime_rate":98
+  },
+
+  {
+    "case_code" : 561,
+    "case_desc":"kidnap",
+    "location":"Sevanagar",
+    "date":"24/12/18",
+    "time": 16,
+    "street":"ITC Colony Road",
+    "lat": 12.998449,
+    "lng": 77.631735,
+    "crime_rate":85
+  },
+
+  {
+    "case_code" : 354,
+    "case_desc":"murder",
+    "location":"Cox Town",
+    "date":"12/06/18",
+    "time": 17,
+    "street":"Army Road",
+    "lat": 12.989724,
+    "lng": 77.626958,
+    "crime_rate":97
+  },
+
+  {
+    "case_code" : 534,
+    "case_desc":"kidnap",
+    "location":"Indira Nagar",
+    "date":"17/09/18",
+    "time": 19,
+    "street":"9th Cross Road",
+    "lat": 12.982068,
+    "lng": 77.639105,
+    "crime_rate":85
+  },
+
+  {
+    "case_code" : 634,
+    "case_desc":"pickpocket",
+    "location":"Hoysala Nagar",
+    "date":"11/01/18",
+    "time": 11,
+    "street":"17th D Cross Road",
+    "lat": 12.976089,
+    "lng": 77.633766,
+    "crime_rate":65
+  },
+
+  {
+    "case_code" : 734,
+    "case_desc":"robbery",
+    "location":"Suddaguntapalya",
+    "date":"12/04/18",
+    "time": 20,
+    "street":"8th Main Road",
+    "lat": 12.982977,
+    "lng": 77.655107,
+    "crime_rate":75
+  },
+
+  {
+    "case_code" : 1214,
+    "case_desc":"rape",
+    "location":"pudupet",
+    "date":"14/04/18",
+    "time": 21,
+    "street":"Muniappa Pillai Ave",
+    "lat": 13.068306,
+    "lng":  80.266864,
+    "crime_rate":98
+  },
+
+  {
+    "case_code" : 351,
+    "case_desc":"murder",
+    "location":"C V Raman Nagar",
+    "date":"15/02/18",
+    "time": 15,
+    "street":"Rukshana Lakshman Road",
+    "lat": 12.991467,
+    "lng": 77.660556,
+    "crime_rate":97
+  },
+
+  {
+    "case_code" : 434,
+    "case_desc":"Bennigana Halli",
+    "location":"karapakkam",
+    "date":"11/07/18",
+    "time": 12,
+    "street":"4th Cross Road",
+    "lat": 12.997650,
+    "lng": 77.654938,
+    "crime_rate":70
+  },
+
+  {
+    "case_code" : 1236,
+    "case_desc":"rape",
+    "location":"Kalyan Nagar",
+    "date":"1/12/18",
+    "time": 20,
+    "street":"Chellikere Main Road",
+    "lat": 13.028102,
+    "lng": 77.638656,
+    "crime_rate":98
+  },
+
+  {
+    "case_code" : 687,
+    "case_desc":"pickpocket",
+    "location":"Bellandur",
+    "date":"27/03/18",
+    "time": 12,
+    "street":"BWSSB Road",
+    "lat": 12.941702,
+    "lng": 77.655036,
+    "crime_rate":65
+  },
+
+  {
+    "case_code" : 412,
+    "case_desc":"chain snatching",
+    "location":"Ambedkar Nagar",
+    "date":"28/02/18",
+    "time": 4,
+    "street":"1st Cross Road",
+    "lat": 12.946710,
+    "lng": 77.660331,
+    "crime_rate":70
+  },
+
+  {
+    "case_code" : 1255,
+    "case_desc":"rape",
+    "location":"Byrappa Layout",
+    "date":"12/12/18",
+    "time": 22,
+    "street":"1st A Main Road",
+    "lat": 12.970885,
+    "lng": 77.750964,
+    "crime_rate":98
+  }
+]

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    tools:context="com.heisenberg.beherchange.DriverDetails">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:id="@+id/lin_dri">
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:layout_margin="10dp"
+            card_view:cardCornerRadius="2dp"
+            card_view:cardElevation="2dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#fff">
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:layout_margin="15dp"
+                    android:src="@drawable/driver"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="100dp"
+                    android:text="Dave Aston"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="23dp"
+                    android:fontFamily="sans-serif-condensed" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="45dp"
+                    android:layout_marginLeft="100dp"
+                    android:text="1899 Gerald L. Bates Drive\Boston, Massachusetts - 02110"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18dp"
+                    android:fontFamily="sans-serif-condensed" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="95dp"
+                    android:layout_marginLeft="100dp"
+                    android:text="Contact No - +1401 8745644"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18dp"
+                    android:fontFamily="sans-serif-condensed" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="120dp"
+                    android:layout_marginLeft="100dp"
+                    android:text="Lisense No - MASH745855"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18dp"
+                    android:fontFamily="sans-serif-condensed" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="145dp"
+                    android:layout_marginLeft="100dp"
+                    android:text="Lisense Status : Valid."
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18dp"
+                    android:fontFamily="sans-serif-condensed" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="170dp"
+                    android:layout_marginLeft="100dp"
+                    android:text="Vehicle ID - MASS 15957"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18dp"
+                    android:fontFamily="sans-serif-condensed" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="195dp"
+                    android:layout_marginLeft="100dp"
+                    android:text="Expiry - 26/07/2022"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="18dp"
+                    android:fontFamily="sans-serif-condensed" />
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lin_dri"
+        android:gravity="center">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start Trip"
+            android:id="@+id/startTrip"
+            android:layout_margin="10dp"
+            android:background="@drawable/buttonstyle2" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Share Driver Details"
+            android:layout_below="@+id/lin_dri"
+            android:id="@+id/shareDet"
+            android:layout_margin="10dp"
+            android:background="@drawable/buttonstyle2" />
+    </LinearLayout>
+</RelativeLayout>
