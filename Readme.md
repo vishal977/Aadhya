@@ -28,7 +28,7 @@ In the event of a distress call, the police can seize the ignition system of the
 
 ## Screenshots
 
-![Splash](/master/App Screenshots/splash.png)
+![Splash](App Screenshots/splash.png)
 
 ## Technology Stack
 
