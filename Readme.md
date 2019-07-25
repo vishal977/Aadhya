@@ -26,6 +26,10 @@ There is a panic button in the cab and in your phone, if u press that button twi
     
 In the event of a distress call, the police can seize the ignition system of the vehicle, arresting its movement.
 
+## Screenshots
+
+![Splash](splash.png)
+
 ## Technology Stack
 
     Hardware: 
