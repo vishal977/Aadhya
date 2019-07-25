@@ -28,7 +28,7 @@ In the event of a distress call, the police can seize the ignition system of the
 
 ## Screenshots
 
-![Splash](https://github.com/ssaimanjunath/Aadhya/blob/master/App%20Screenshots/splas.png)
+![Splash](https://github.com/ssaimanjunath/Aadhya/blob/master/App%20Screenshots/splash.png)
 ![Login](https://github.com/ssaimanjunath/Aadhya/blob/master/App%20Screenshots/login.png)
 ![Dashboard](https://github.com/ssaimanjunath/Aadhya/blob/master/App%20Screenshots/dashboard.png)
 ![Analyse](https://github.com/ssaimanjunath/Aadhya/blob/master/App%20Screenshots/analyse1.png)
